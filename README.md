@@ -14,7 +14,8 @@
 - Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+Karinaku Counter is a fun web tool that counts visible taste buds ("karinaku") on a human tongue from a photo.  
+Upload a close-up tongue image, and the app uses computer vision to detect and highlight each taste bud, displaying the
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
