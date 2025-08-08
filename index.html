@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Karinaku Count - Taste Bud Detector</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      text-align: center;
+      padding: 20px;
+    }
+
+    h1 {
+      color: #e63946;
+    }
+
+    input[type="file"] {
+      margin: 20px 0;
+    }
+
+    canvas {
+      border: 1px solid #333;
+      margin-top: 20px;
+      max-width: 90%;
+    }
+
+    #karinakuCount {
+      margin-top: 15px;
+      font-size: 24px;
+      font-weight: bold;
+      color: #1d3557;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Karinaku Count</h1>
+  <p>Upload a close-up photo of a human tongue to detect visible taste buds.</p>
+  <input type="file" id="imageInput" accept="image/*">
+  <canvas id="canvasOutput"></canvas>
+  <div id="karinakuCount">Karinaku Count: 0</div>
+
+  <!-- OpenCV.js CDN -->
+  <script async src="https://docs.opencv.org/4.x/opencv.js" onload="onOpenCvReady();"></script>
+  <script src="script.js"></script>
+
+</body>
+</html>
+
