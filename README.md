@@ -1,27 +1,28 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [Karinaku_Counter] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Biomeds]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
+- Team Lead: [Sivakrishna P H] - [Sahrdaya College of Engineering and Technology]
+- Member 2: [Devikrishna P B] - [Sahrdaya College of Engineering and Technology]
 - Member 3: [Name] - [College]
 
 ### Project Description
-Karinaku Counter is a fun web tool that counts visible taste buds ("karinaku") on a human tongue from a photo.  
+Karinaku Counter is a fun web tool that counts visible melanoma ("karinaku") on a human tongue from a photo.  
 Upload a close-up tongue image, and the app uses computer vision to detect and highlight each taste bud, displaying the
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Have you ever wondered exactly how many melonoma are visible on your tongue at any given moment? Neither have we! But for those burning with curiosity (or just bored), counting "karinaku" by hand is tedious, imprecise, and frankly, a little werid.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We built a web app that uses computer vision to automatically count and highlight each visible taste bud ("karinaku") on your tongue from a photo.  
+Just upload a close-up tongue pic, and our algorithm does the rest—no manual counting, no mirrors, no awkward selfies. It's fast, fun, and completely unnecessary!
 
 ## Technical Details
 ### Technologies/Components Used
