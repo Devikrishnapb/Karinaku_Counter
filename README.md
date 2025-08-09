@@ -11,7 +11,6 @@
 ### Team Members
 - Team Lead: [Sivakrishna P H] - [Sahrdaya College of Engineering and Technology]
 - Member 2: [Devikrishna P B] - [Sahrdaya College of Engineering and Technology]
-- Member 3: [Name] - [College]
 
 ### Project Description
 Karinaku Counter is a fun web tool that counts visible melanoma ("karinaku") on a human tongue from a photo.  
@@ -27,72 +26,42 @@ Just upload a close-up tongue pic, and our algorithm does the rest—no manual c
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [HTML]
+- [script.js]
+- [Replit]
 
 ### Implementation
-For Software:
-# Installation
-[commands]
-
+For Software:replit
 # Run
-[commands]
+[open link in browser
+https://karinaku-counter.vercel.app/]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screen![t](https://github.com/user-attachments/assets/7b122804-0852-48ba-880d-8ec2a2b3f932)
+shot1](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screen![sample 2](https://github.com/user-attachments/assets/41d71d48-520c-4956-b405-891242be4b7e)
+shot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screen![sample 1](https://github.com/user-attachments/assets/aefab91a-dfda-4959-9595-a1c20267f930)
+shot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+https://github.com/user-attachments/assets/8b0590d7-a25c-4361-910e-5ef4740491a4
+
+*when user uploads a real time image a human tongue into the karinaku counter, it will give the number of karinaku (i.e , the melanoma on the tounge)*
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Sivakrishna P H]: [website developing]
+- [Devikrishna P B]: [website developing, Documentation]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
